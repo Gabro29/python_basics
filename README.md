@@ -1,2 +1,1 @@
-# python_basics
-Some little project to start python with
+Be free to use these codes, for any questions you can email me.
